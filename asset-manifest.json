@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GiphySearcher/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/GiphySearcher/static/js/main.0e861e61.chunk.js",
+    "main.js.map": "/GiphySearcher/static/js/main.0e861e61.chunk.js.map",
+    "runtime-main.js": "/GiphySearcher/static/js/runtime-main.50f90ddd.js",
+    "runtime-main.js.map": "/GiphySearcher/static/js/runtime-main.50f90ddd.js.map",
+    "static/js/2.a7ef2a91.chunk.js": "/GiphySearcher/static/js/2.a7ef2a91.chunk.js",
+    "static/js/2.a7ef2a91.chunk.js.map": "/GiphySearcher/static/js/2.a7ef2a91.chunk.js.map",
+    "static/js/3.2d5e0c1e.chunk.js": "/GiphySearcher/static/js/3.2d5e0c1e.chunk.js",
+    "static/js/3.2d5e0c1e.chunk.js.map": "/GiphySearcher/static/js/3.2d5e0c1e.chunk.js.map",
+    "index.html": "/GiphySearcher/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/GiphySearcher/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a7ef2a91.chunk.js.LICENSE.txt": "/GiphySearcher/static/js/2.a7ef2a91.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GiphySearcher/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50f90ddd.js",
+    "static/js/2.a7ef2a91.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0e861e61.chunk.js"
+  ]
+}
